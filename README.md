@@ -1,6 +1,6 @@
 # Curriculum Innovator: Mastering Data Science & AI through Market-Driven Course Design 
 
-This is a repo of a project related to clustering from my data science graduate course, MIE1624, at the University of Toronto.
+This is a repo of a project related to clustering from my data science graduate course, MIE1624, at the University of Toronto. The full description of the project can be found in `MIE1624_Assignment_3.pdf`. 
 
 ## Project Description
 
